@@ -1,4 +1,5 @@
-import 'package:firebasetut/phone.dart';
+import 'package:firebasetut/Email_Password_Verification/Login_Signin_Screen.dart';
+import 'package:firebasetut/OTP_Verification/otpphone.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
@@ -23,7 +24,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home:  const Phone(),
+      home:  const Login_Screen(),
     );
   }
 }
