@@ -21,3 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Firebase_tutorial
 >>>>>>> d33733718fddb29a584c3957be1d316d2f49ff80
+I am editing the README file. Adding some more details about the project description.
